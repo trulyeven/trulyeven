@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=trulyeven%20!&fontSize=90)
 
+<div style="width: 100%;">
+  <a href="https://github.com/trulyeven/trulyeven/blame/main/welcome.svg">
+    <img src="hi.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 ### Hi there 👋
 
